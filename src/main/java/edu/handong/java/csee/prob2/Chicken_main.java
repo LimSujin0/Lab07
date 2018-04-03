@@ -4,6 +4,7 @@ package edu.handong.java.csee.prob2;//this is package name
  * This is class named Chicken_main
  * This program is print out each menu's name and rating
  * Enjoy my program!
+ * Thank you professor JaeChang Nam 
  * @author imsuj
  *
  */
