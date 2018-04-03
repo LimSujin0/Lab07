@@ -37,7 +37,7 @@ public class Chicken {
 		this.price = price;
 	}
 	
-	public void ser_stars(int stars) {
+	public void set_stars(int stars) {
 		this.stars = stars;
 	}
 	

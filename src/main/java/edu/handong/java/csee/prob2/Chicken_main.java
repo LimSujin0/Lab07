@@ -12,7 +12,7 @@ public class Chicken_main {
 		menu3.set_stars(5);
 		
 		System.out.println(menu1.get_name() + "'s rating is " + menu1.get_stars());
-		
+		System.out.println(menu2.get_name() + "'s rating is " + menu2.get_stars());
+		System.out.println(menu3.get_name() + "'s rating is " + menu3.get_stars());
 	}
-
 }
