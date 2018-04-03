@@ -12,7 +12,7 @@ public class YearToCentury_main {
 		yr = keyboard.nextInt(); //get a integer variable from the user, and set yr to getting num.
 		
 		YearToCentury year = new YearToCentury(yr);
-		System.out.println(yr + "is" + year.calc_century() + "th century. ");
+		System.out.println(yr + " is " + year.calc_century() + "th century. ");
 		
 	}
 
